@@ -2,7 +2,7 @@
 
 <br/>
 
-### I'm a software developer. Yo can find me on  [<img src="./twitter.png" style="width:22px; vertical-align:middle;margin:0 6px;">](https://twitter.com/masoudt10) and [<img src="./linkedin.png" style="width:22px; vertical-align:middle;margin:0 6px;">](https://www.linkedin.com/in/masoud-tabatabaei-20/)
+### ✨ I'm a software developer. Yo can find me on  [<img src="./twitter.png" style="width:22px; vertical-align:middle;margin:0 6px;">](https://twitter.com/masoudt10) and [<img src="./linkedin.png" style="width:22px; vertical-align:middle;margin:0 6px;">](https://www.linkedin.com/in/masoud-tabatabaei-20/)
 
 <br/>
 
