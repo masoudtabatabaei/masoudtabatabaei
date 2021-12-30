@@ -7,6 +7,3 @@
 
 - Linkedin:
     - [![Linkedin Badge](https://img.shields.io/badge/Masoudtabatabaei-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masoud-tabatabaei-20/)</br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoudtabatabaei&theme=github_dark&show_icons=true" />
-
