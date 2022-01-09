@@ -7,3 +7,7 @@
 
 - Linkedin:
     - [![Linkedin Badge](https://img.shields.io/badge/Masoudtabatabaei-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masoud-tabatabaei-20/)</br>
+
+</br>
+
+Trying to become better developer
