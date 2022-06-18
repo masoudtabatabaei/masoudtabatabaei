@@ -1,4 +1,4 @@
-## Hello everyone <img src="./hand-wave.gif" style="width:22px;vertical-align:middle;"> My name is Masoud Tabatabaei.
+## Hello everyone <img src="./hand-wave.gif" width="25" style="vertical-align:middle;"> My name is Masoud Tabatabaei.
 
 ### ✨ I'm a software developer from Iran/Tehran. You can find me by these ways:  
 
