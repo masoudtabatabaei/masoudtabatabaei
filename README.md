@@ -1,6 +1,6 @@
 ## Hello everyone <img src="./hand-wave.gif" width="25" style="vertical-align:middle;"> I'm Masoud Tabatabaei.
 
-Front-End Developer with +5 years of experience and a bachelor's degree in IT engineering.
+Front-End Developer with +7 years of experience and a bachelor's degree in IT engineering.
 I have successfully delivered +30 responsive websites and web applications for clients in various industries. I have a deep understanding of web development technologies and concepts. I am constantly striving to improve my skills and solve complex problems, while prioritizing timely delivery of high-quality work. My focus on optimizing user efficiency drives my collaboration with cross-functional teams to create intuitive, engaging user experiences.
 
 
